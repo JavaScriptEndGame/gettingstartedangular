@@ -5,3 +5,7 @@ li {
 div.panel-heading {
    font-size: x-large; 
 }
+
+div.test::after { 
+    content:  "\2630";
+}
